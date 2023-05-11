@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683798750 source:c:\users\dulmi\downloads\lab materials\lab materials\hashtable_with_chaining.cpp
+	<iostream>
+	"linkedlist.cpp"
+
+1683797590 c:\users\dulmi\downloads\lab materials\lab materials\linkedlist.cpp
+	<iostream>
+
+1683797277 source:c:\users\dulmi\onedrive\desktop\dulmi\semester 2\lab_9\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+
+1683797590 source:c:\users\dulmi\downloads\lab materials\lab materials\linkedlist.cpp
+	<iostream>
+
